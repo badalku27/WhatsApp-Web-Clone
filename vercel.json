@@ -1,6 +1,4 @@
 {
-  "version": 2,
-  "rootDirectory": "client",
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
   ]
