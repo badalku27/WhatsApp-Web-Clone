@@ -1,0 +1,14 @@
+{
+  "wa_id": "919999000001",
+  "name": "Alice",
+  "messages": [
+    {
+      "id": "wamid.HBgLNTE1MTUxNTE1FQIAEhgUMzQzZjI1YWYtZGIxZi00MTdjLWEzZjEtNmQ4ZjNmYzA1NTEYBBI=",
+      "direction": "inbound",
+      "type": "text",
+      "text": "Hi there!",
+      "timestamp": 1719780000,
+      "status": "delivered"
+    }
+  ]
+}
